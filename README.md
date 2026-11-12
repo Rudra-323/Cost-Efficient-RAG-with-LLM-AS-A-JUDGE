@@ -1,4 +1,4 @@
-# Applied AI / ML Engineering take-home
+# rag-and-llm-judge-evaluation
 
 Two projects in one repo:
 
