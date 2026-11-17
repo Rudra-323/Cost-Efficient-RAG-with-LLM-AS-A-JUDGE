@@ -12,8 +12,8 @@ Two projects in one repo:
 ## Setup
 
 ```bash
-git clone https://github.com/Rudra-323/GenAI_Task.git
-cd GenAI_Task
+git clone https://github.com/Rudra-323/Cost-Efficient-RAG-with-LLM-AS-A-JUDGE.git
+cd Cost-Efficient-RAG-with-LLM-AS-A-JUDGE
 python -m venv .venv
 .venv\Scripts\activate            # Mac/Linux: source .venv/bin/activate
 pip install -r requirements.txt
